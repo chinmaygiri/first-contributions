@@ -1,5 +1,5 @@
 # Contributors
-
+- [Chinmay Giri] (https://github.com/chinmaygiri)
 - [Yaroslav Baienko] (https://github.com/YaroslavBaienko)
 - [Bhanu Singh] (https://github.com/bhanusingh008)
 - [Harsh Kumar Singh] (https://github.com/dragoon4890)
